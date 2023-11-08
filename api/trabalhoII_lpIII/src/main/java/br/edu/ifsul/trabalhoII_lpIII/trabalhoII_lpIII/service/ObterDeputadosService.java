@@ -18,15 +18,18 @@ public class ObterDeputadosService {
 	@Autowired
 	private DeputadoRepository deputadoRepository;
 
-	public Page<DeputadoResponse> obter(Pageable pageable) {
+	public List<DeputadoResponse> obter() {
 		
-		Page<Deputado> deputados = deputadoRepository.findAll(pageable);
+		List<Deputado> deputados = deputadoRepository.findAll();
 		
 		if(deputados.isEmpty()) {
 			return null;
 		}
 		
-		return deputados.map(DeputadoMapper::toResponse);
+		return deputados
+				.stream()
+				.map(DeputadoMapper::toResponse)
+				.toList();
 	}
 
 }

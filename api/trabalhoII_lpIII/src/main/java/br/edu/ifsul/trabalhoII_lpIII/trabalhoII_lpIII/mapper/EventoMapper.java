@@ -7,9 +7,11 @@ public class EventoMapper {
 	
 	public static EventoResponse toResponse(Evento evento) {
 		
-		return new EventoResponse(evento.getId(), evento.getDataHoraInicio(), evento.getDataHoraFim(), 
-				evento.getSituacao(), evento.getDescricaoTipo(), evento.getDescricao(), evento.getLocalExterno(), 
-				evento.getUrlRegistro());
+		return EventoResponse
+				.builder()
+				.id(evento.getId())
+				.descricaoTipo(evento.getDescricaoTipo())
+				.build();
 	}
 
 }

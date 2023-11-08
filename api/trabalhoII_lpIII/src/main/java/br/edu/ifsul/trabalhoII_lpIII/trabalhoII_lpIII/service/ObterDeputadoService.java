@@ -19,7 +19,7 @@ public class ObterDeputadoService {
 
 	public DeputadoResponse obter(Long id) {
 		
-		if(deputadoRepository.existsById(id)) {
+		if(!deputadoRepository.existsById(id)) {
 			
 			throw new ResponseStatusException(NOT_FOUND, "Deputado não existe.");
 		}

@@ -1,0 +1,452 @@
+[
+    {
+      "id": 69364,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/69364",
+      "dataHoraInicio": "2023-11-07T09:00:00",
+      "dataHoraFim": "2023-11-07T10:58",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Audiência Pública",
+      "descricao": "Sensibilização quanto à presteza na abordagem dos infartos do miocárdio\r\n (REQ 126/2023 CSAUDE, do deputado Dr. Luiz Ovando)\r\n\r\nConvidados: \r\n\r\nDÉLCIO GONÇALVES DA SILVA JÚNIOR (Presença Confirmada - Virtual)\r\nMédico do Hospital Universitário Maria Aparecida Pedrossian / UFMS\r\n\r\nNASSER SARKIS SIMÃO (Presença Confirmada - Presencial)\r\nDoutor em Medicina pela UnB\r\n\r\nJOSÉ ARMANDO MANGIONE (Presença Confirmada - Virtual)\r\nMédico Cardiologista Intervencionista do Hospital Beneficência Portuguesa de São Paulo.",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 2014,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+          "sigla": "CSAUDE",
+          "nome": "Comissão de Saúde",
+          "apelido": "Saúde",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Saúde",
+          "nomeResumido": "Saúde"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 07",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=sQtg3QpZUa4"
+    },
+    {
+      "id": 70321,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70321",
+      "dataHoraInicio": "2023-11-07T09:30",
+      "dataHoraFim": "2023-11-07T12:20",
+      "situacao": "Encerrada (Final)",
+      "descricaoTipo": "Seminário",
+      "descricao": "Fator Amazônico e a Equidade de investimentos públicos\r\n Convidados:\r\n\r\nEduardo Corrêa Tavares (Confirmado), Secretário Nacional de Fundos e Instrumentos Financeiros do Ministério da Integração e do Desenvolvimento Regional.\r\n\r\nClaudio Stenner(Confirmado), Diretor de Geociências do Instituto Brasileiro de Geografia e Estatística (IBGE).\r\n\r\nBruno de Oliveira Cruz (Confirmado), Coordenador de Desenvolvimento Regional do Instituto de Pesquisa Econômica Aplicada (IPEA).\r\n\r\nAlessandra Cardoso (Confirmada), Assessora Política do  Instituto de Estudos Socioeconômicos (INESC).\r\n\r\nAndre Abdon (Confirmado), Diretor-presidente do Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá (IEAP).\r\n\r\nCarlos Ledo (Confirmado), Secretário Adjunto da Secretaria de Estado de Desenvolvimento Econômico, Mineração e Energia do Pará, representando o Consórcio Interestadual de Desenvolvimento Sustentável da Amazônia Legal.\r\n\r\nRenato Carvalheira (Confirmado), Vice-coordenador  da Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN).\r\n\r\nEm atendimento ao Requerimento nº 2/2023, de autoria da Deputada Professora Goreth.",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 2017,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017",
+          "sigla": "CINDRE",
+          "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+          "apelido": "Integração Nacional e Desenvolvimento Regional",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Integração Nacional e Desenvolvimento Regional",
+          "nomeResumido": "Integração Nacional"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 13",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=YHC5s8fRAio"
+    },
+    {
+      "id": 70550,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70550",
+      "dataHoraInicio": "2023-11-07T10:00",
+      "dataHoraFim": "2023-11-07T11:50",
+      "situacao": "Encerrada (Final)",
+      "descricaoTipo": "Audiência Pública",
+      "descricao": "Debater o Projeto de Lei nº 4.248/20: Meta de Universalização de Acesso à Energia Elétrica na Amazônia Legal.\r\n Em atendimento ao Requerimento nº 145/2023, de autoria do Dep. Airton Faleiro.\r\n\r\nConvidados:\r\n1 - Sr. Igor Souza Ribeiro, Assessor Especial da Secretaria Nacional de Energia Elétrica do Ministério de Minas e Energia (CONFIRMADO);\r\n2 - Sr. Daniel José Justi Bego, Coordenador de Acesso ao Sistema e Atendimento ao Consumidor da Agência Nacional de Energia Elétrica - Aneel (CONFIRMADO);\r\n3 - Sr. Olivo Dambros, Diretor de Desenvolvimento Territorial e Socioambiental do Ministério do Desenvolvimento Agrário e Agricultura Familiar (CONFIRMADO); \r\n4 - Sra. Larissa Lacerda, Coordenadora de Articulação de Políticas Públicas do Ministério do Desenvolvimento Agrário e Agricultura Familiar (CONFIRMADA); \r\n5 - Sr. Alencar Kos Duarte Braga, Chefe de Divisão de Acesso à Terra do Ministério do Desenvolvimento Agrário e Agricultura Familiar (CONFIRMADO);\r\n6 - Sr. Dione Torquato, Representante do Conselho Nacional de Populações Extrativistas;\r\n7 - Sr. Avanilson Karajá, Coordenador da Coordenação das Organizações Indígenas da Amazônia Brasileira - Coiab (CONFIRMADO); e\r\n8 - Sra. Núbia Cristina Santana de Souza, Coordenadora da Coordenação Nacional de Articulação de Quilombos - Conaq (CONFIRMADA).",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 2012,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+          "sigla": "CME",
+          "nome": "Comissão de Minas e Energia",
+          "apelido": "Minas e Energia",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Minas e Energia",
+          "nomeResumido": "Minas e Energia"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 14",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=DGNzKJIhQ_s"
+    },
+    {
+      "id": 70705,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70705",
+      "dataHoraInicio": "2023-11-07T11:00",
+      "dataHoraFim": "2023-11-07T12:20",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Audiência Pública",
+      "descricao": "Risco de surtos de doenças nas Américas\r\n (REQ. 97/2023, da Dep. Iza Arruda)\r\n\r\n   Convidado:\r\n \r\n   JARBAS BARBOSA (Confirmado)\r\n   Diretor da Organização Pan-Americana de Saúde (OPAS)",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 2014,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+          "sigla": "CSAUDE",
+          "nome": "Comissão de Saúde",
+          "apelido": "Saúde",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Saúde",
+          "nomeResumido": "Saúde"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 07",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=VUiwDiSrv8U"
+    },
+    {
+      "id": 70709,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70709",
+      "dataHoraInicio": "2023-11-06T16:00",
+      "dataHoraFim": "2023-11-06T17:19",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Sessão Não Deliberativa Solene",
+      "descricao": "Homenagem aos Setenta Anos da Fábrica Fortaleza",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=PaT8FpMGitc"
+    },
+    {
+      "id": 70710,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70710",
+      "dataHoraInicio": "2023-11-07T09:00",
+      "dataHoraFim": "2023-11-07T10:47",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Sessão Não Deliberativa Solene",
+      "descricao": "Homenagem ao Dia Mundial do Diabetes\r\n Homenagem ao Dia Mundial do Diabetes",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=4iiT8KMeNkQ"
+    },
+    {
+      "id": 70711,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70711",
+      "dataHoraInicio": "2023-11-07T11:00",
+      "dataHoraFim": "2023-11-07T12:43",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Sessão Não Deliberativa Solene",
+      "descricao": "Homenagem aos 200 Anos da Assembleia Constituinte de 1823\r\n Homenagem aos 200 Anos da Assembleia Constituinte de 1823",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=GFg6GKeGhQU"
+    },
+    {
+      "id": 70760,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70760",
+      "dataHoraInicio": "2023-11-07T10:00",
+      "dataHoraFim": "2023-11-07T12:11",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Audiência Pública",
+      "descricao": "Manifestação cultural do Congado e Reinado\r\n REQ 31/2023, das Deputadas Erika Kokay e Dandara\r\n\r\nConvidados:\r\n\r\n- Sebastião José Soares, Diretor de Promoção das Culturas Populares do Ministério da Cultura;\r\n\r\n- Altair dos Santos Francisco, Diretor da Comunidade do Rosário dos Homens Pretos da Penha de França- São Paulo;\r\n\r\n- Ana Cristina de Oliveira Pires, Presidente da Irmandade das Congadas de Catalão - Goiás\r\n\r\n- Abel de Paula de Oliveira, Capitão do Reinado  Nossa Senhora do Rosário e São Benedito Estrela Maior -  Rio de Janeiro;\r\n\r\n- Ramon Rodrigues, Capitão do Terno Moçambique de Belém -  Minas Gerais;\r\n\r\n- Iara Aparecida Ferreira, Fundadora e Madrinha do Terno Moçambique Estrela Guia - Minas Gerais, e \r\n\r\n- Jeremias Brasileiro, Historiador, Escritor, Pesquisador e Doutor em História pela Universidade Federal de Uberlândia -  UFU.",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 536996,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996",
+          "sigla": "CCULT",
+          "nome": "Comissão de Cultura",
+          "apelido": "Cultura",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Cultura",
+          "nomeResumido": "Cultura"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 10",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=zP9ApKbMpV8"
+    },
+    {
+      "id": 70777,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70777",
+      "dataHoraInicio": "2023-11-07T09:00",
+      "dataHoraFim": "2023-11-07T12:10",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Audiência Pública",
+      "descricao": "Debater o Conflito Israel-Palestina\r\n Audiência Pública para debater o Conflito Israel-Palestina\r\n07/11/2023 às 9h\r\n\r\nConvidados:\r\n\r\n\r\n1) Arlene Clemesha - Historiadora e Diretora do Centro de Estudos Árabes da USP \r\n\r\n\r\n2) Ualid Rabah - Presidente da Federação Palestina no Brasil (FEPAL) \r\n\r\n\r\n3) Carima Atiyel  - Representante do Programa Mundial de Alimentos (WFP) das Nações Unidas \r\n\r\n\r\n4) Berenice Alves de Melo Bento  - Doutora em Sociologia e professora do Departamento de Sociologia da UnB \r\n\r\n\r\n5) Jacques Novion - Prof. Centro de Estudos Latino-Americanos da UnB\r\n\r\n\r\n6) Ahmed Shehada - Presidente do Instituto Brasil-Palestina (IBRASPAL) \r\n\r\n\r\n7) Breno Altman - Jornalista e fundador do portal Opera Mundi \r\n\r\n\r\n8) Ahmed Fahkri Al Assad - Vice-chefe da missão diplomática da embaixada do estado da Palestina no Brasil",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 5438,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438",
+          "sigla": "CLP",
+          "nome": "Comissão de Legislação Participativa",
+          "apelido": "Legislação Participativa",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Legislação Participativa",
+          "nomeResumido": "Legislação Participativa"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 03",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=v0SEVNwE2qA"
+    },
+    {
+      "id": 70789,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70789",
+      "dataHoraInicio": "2023-11-07T10:00",
+      "dataHoraFim": "2023-11-07T10:51",
+      "situacao": "Encerrada (Final)",
+      "descricaoTipo": "Audiência Pública",
+      "descricao": "Desenvolvimento do Futebol de Mesa\r\n Audiência Pública destinada a discutir e promover o desenvolvimento do Futebol de Mesa, em atenção ao Requerimento nº 64/2023, de autoria do deputado Prof. Paulo Fernando.\r\n\r\nConvidados confirmados:\r\n\r\nSr.  José Jorge Farah Neto, presidente da Confederação Brasileira de Futebol de Mesa (videoconferência);\r\nSr. André Luís Corrêa de Araujo, representante da Confederação Brasileira de Futebol de Mesa (presencial);\r\nSr. Flávio da Silveira Campos, vice-presidente da Federação Brasiliense de Futebol de Mesa (presencial);\r\nSr. Waldomiro Riemma, tesoureiro da Federação Goiana de Futebol de Mesa (videoconferência);\r\nSr. Manoel Moura, representante da Federação de Futebol de Mesa do Ceará (FUTMECE) (videoconferência).",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 537236,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236",
+          "sigla": "CESPO",
+          "nome": "Comissão do Esporte",
+          "apelido": "Esporte",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão do Esporte",
+          "nomeResumido": "Esportes"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 04",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=QGFd3PMyKMk"
+    },
+    {
+      "id": 70802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70802",
+      "dataHoraInicio": "2023-11-07T09:00",
+      "dataHoraFim": "2023-11-07T13:56",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Seminário",
+      "descricao": "Reparação integral aos atingidos: oito anos do crime da Samarco no rio Doce\r\n Seminário\r\n\r\nTema: Reparação integral aos atingidos: Oito anos do crime da Samarco no Rio Doce.\r\n\r\nConvidados:\r\n\r\nJOCELI JAISON JOSÉ ANDRIOLI, Membro da Coordenação Nacional do Movimento dos Atingidos por Barragens - MAB (confirmado);\r\n\r\nJUNIOR DIVINO FIDELES, Adjunto do Advogado-Geral da União (confirmado); \r\n\r\nRONALDO DE ALMEIDA NETO, Representante da Defensoria Pública da União (confirmado); \r\n\r\nVÍTOR EDUARDO DE ALMEIDA SABACK,  Representante do Ministério de Minas e Energia (confirmado); \r\n\r\nLUIZA BORGES DULCI, Representante da Secretaria-Geral da Presidência da República (confirmada);\r\n \r\nMOARA GIASSON, Representante do Ministério do Meio Ambiente e Mudança do Clima (confirmada); \r\n\r\nJOSÉ DOUGLAS DOS SANTOS SILVA, Representante do Ministério dos Direitos Humanos e da Cidadania (confirmado).\r\n\r\n\r\n\r\n(Requerimento nº 57/2023, do Dep. Rogério Correia)",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 539407,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539407",
+          "sigla": "CEXMABRU",
+          "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",
+          "apelido": "Fiscalização dos Rompimentos de Barragens e Repactuação",
+          "codTipoOrgao": 5,
+          "tipoOrgao": "Comissão Externa",
+          "nomePublicacao": "Comissão Externa para fiscalização dos rompimentos de barragens e repactuação",
+          "nomeResumido": "Rompimentos de Barragens"
+        }
+      ],
+      "localCamara": {
+        "nome": "Auditório Nereu Ramos",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=UyjiqkDbz0w"
+    },
+    {
+      "id": 70815,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70815",
+      "dataHoraInicio": "2023-11-06T19:30",
+      "dataHoraFim": "2023-11-06T21:34",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Seminário",
+      "descricao": "Descongelamento da contagem do tempo de serviço para fins de adicionais\r\n (Requerimento nº 33, de 2023, da deputada Professora Luciene Cavalcante )",
+      "localExterno": "Sala Oscar Pedroso Horta - Câmara Municipal de São Paulo",
+      "orgaos": [
+        {
+          "id": 539388,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539388",
+          "sigla": "CASP",
+          "nome": "Comissão de Administração e Serviço Público",
+          "apelido": "Administração e Serviço Público",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Administração e Serviço Público",
+          "nomeResumido": "Serviço Público"
+        }
+      ],
+      "localCamara": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": null
+    },
+    {
+      "id": 70900,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70900",
+      "dataHoraInicio": "2023-11-06T14:00",
+      "dataHoraFim": "2023-11-06T15:06",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Reunião Deliberativa",
+      "descricao": "Discussão e votação de propostas legislativas",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 2011,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011",
+          "sigla": "CFFC",
+          "nome": "Comissão de Fiscalização Financeira e Controle",
+          "apelido": "Fiscalização Financeira e Controle",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Fiscalização Financeira e Controle",
+          "nomeResumido": "Fiscalização Financeira"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 11",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=E_ltTV2EThc"
+    },
+    {
+      "id": 70948,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70948",
+      "dataHoraInicio": "2023-11-06T18:00",
+      "dataHoraFim": "2023-11-06T21:21",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Sessão Deliberativa",
+      "descricao": "Sessão Deliberativa Extraordinária (virtual)",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=xJ2EPwIdWb8"
+    },
+    {
+      "id": 70956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/70956",
+      "dataHoraInicio": "2023-11-07T09:00",
+      "dataHoraFim": null,
+      "situacao": "Convocada",
+      "descricaoTipo": "Seminário",
+      "descricao": "GT Águas Frente Parlamantar Ambientalista",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 100950,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100950",
+          "sigla": "EVENTOS",
+          "nome": "Eventos",
+          "apelido": "Outros Eventos",
+          "codTipoOrgao": 12000,
+          "tipoOrgao": "Órgão da Câmara dos Deputados",
+          "nomePublicacao": "Câmara dos Deputados - Outros Evento",
+          "nomeResumido": null
+        }
+      ],
+      "localCamara": {
+        "nome": "Auditório Freitas Nobre",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=EBdColGbiwk"
+    }
+  ]

@@ -10,21 +10,27 @@ import br.edu.ifsul.trabalhoII_lpIII.trabalhoII_lpIII.domain.Evento;
 import br.edu.ifsul.trabalhoII_lpIII.trabalhoII_lpIII.mapper.EventoMapper;
 import br.edu.ifsul.trabalhoII_lpIII.trabalhoII_lpIII.repository.EventoRepository;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 @Service
 public class ObterEventosService {
 	
 	@Autowired
 	private EventoRepository eventoRepository;
 
-	public Page<EventoResponse> obter(Pageable pageable) {
+	public List<EventoResponse> obter() {
 		
-		Page<Evento> eventos = eventoRepository.findAll(pageable);
+		List<Evento> eventos = eventoRepository.findAll();
 		
 		if(eventos.isEmpty()) {
 			return null;
 		}
 		
-		return eventos.map(EventoMapper::toResponse);
+		return eventos
+				.stream()
+				.map(EventoMapper::toResponse)
+				.toList();
 	}
 
 }

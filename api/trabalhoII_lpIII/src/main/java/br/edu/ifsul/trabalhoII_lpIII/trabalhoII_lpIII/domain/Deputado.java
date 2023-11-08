@@ -1,8 +1,6 @@
 package br.edu.ifsul.trabalhoII_lpIII.trabalhoII_lpIII.domain;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -10,6 +8,9 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.util.List;
+
+import static javax.persistence.CascadeType.PERSIST;
 import static javax.persistence.GenerationType.IDENTITY;
 
 @Entity
@@ -31,29 +32,7 @@ public class Deputado {
 	
 	private String urlFoto;
 
-	public Long getId() {
-		return id;
-	}
+	@ManyToMany(mappedBy = "deputados", cascade = PERSIST)
+	private List<Evento> eventos;
 
-	public String getNome() {
-		return nome;
-	}
-
-	public String getSiglaPartido() {
-		return siglaPartido;
-	}
-
-	public String getSiglaUf() {
-		return siglaUf;
-	}
-
-	public String getEmail() {
-		return email;
-	}
-
-	public String getUrlFoto() {
-		return urlFoto;
-	}
-	
-	
 }
