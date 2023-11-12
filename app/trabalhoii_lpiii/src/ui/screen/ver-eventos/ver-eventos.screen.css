@@ -1,0 +1,10 @@
+.main-eventos{
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px 0;
+    gap: 5px;
+}

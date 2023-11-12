@@ -1,0 +1,35 @@
+.main-inscrever-eventos{
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 0;
+    gap: 50px;
+}
+
+.form-inscrever{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.select-evento{
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+}
+
+.botao-inscrever{
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+}
+
+.botao-inscrever:hover{
+    cursor: pointer;
+}

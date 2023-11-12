@@ -8,6 +8,7 @@ import lombok.Setter;
 
 @Builder
 @NoArgsConstructor
+@AllArgsConstructor
 @Getter @Setter
 public class DeputadoResponse {
 
@@ -22,16 +23,5 @@ public class DeputadoResponse {
 	private String email;
 	
 	private String urlFoto;
-
-	public DeputadoResponse(Long id, String nome, String siglaPartido, String siglaUf, String email, String urlFoto) {
-		super();
-		this.id = id;
-		this.nome = nome;
-		this.siglaPartido = siglaPartido;
-		this.siglaUf = siglaUf;
-		this.email = email;
-		this.urlFoto = urlFoto;
-	}
-	
 	
 }
